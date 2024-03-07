@@ -16,7 +16,7 @@ def ackley(x, y):
 
 
 '''
-Plotting various objective functions
+Plotting various key objective functions
 '''
 
 
